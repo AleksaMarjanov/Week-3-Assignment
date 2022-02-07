@@ -7,7 +7,8 @@ let subtract = ages[ages.length - 1] - ages[0];
 console.log(subtract);
 
 //1b
-ages.push(26);
+ages.push(25);
+subtract = ages[ages.length - 1] - ages[0];
 console.log(subtract);
 
 // 1c
